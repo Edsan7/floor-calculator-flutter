@@ -23,7 +23,7 @@ Tutorial de criação deste app: [clique aqui](https://medium.com/@kleberandrade
 *   [x] Criar uma função para calcular o preço na classe Controller e exibir o resultado no ResultDialog;
 *   [x] Validar os campos de entrada para quando o usuário digitar valores negativos ou zero;
 *   [x] Criar uma função para limpar (zerar) os campos do formulário;
-*   [x] Criar um ícone para o aplicativo ([plugin flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons), [gerador de ícone](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)&crop=0&backgroundShape=square&effects=none&name=ic_launcher). Exemplo de como inserir imagens no flutter, [clique aqui](https://medium.com/@suragch/how-to-include-images-in-your-flutter-app-863889fc0b29).
+*   [x] Criar um ícone para o aplicativo ([plugin flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons), [tutorial] (https://medium.com/@psyanite/how-to-add-app-launcher-icons-in-flutter-bd92b0e0873a), [gerador de ícone](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html). Exemplo de como inserir imagens no flutter, [clique aqui](https://medium.com/@suragch/how-to-include-images-in-your-flutter-app-863889fc0b29).
 
 ## Licença
 
